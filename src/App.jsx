@@ -8,7 +8,8 @@ import './App.css'
 import Aside from './components/Aside'
 import Footer from './components/Footer'
 import Header from './components/Header'
-import Section from './Section'
+import Section from './components/Section'
+
 
 // 2. Function Defination
 function App() {
@@ -29,4 +30,4 @@ function App() {
 
 // 3. Export Area
 
-export default App
+export default App;
