@@ -1,0 +1,15 @@
+ .a_tbdr{
+  border:3px solid white;
+ }
+ .common{
+   background-color: #0D7962;
+ }
+header{
+  height: 140px;
+}
+main{
+  min-height: 450px;
+}
+footer{
+  height: 70px;
+}
